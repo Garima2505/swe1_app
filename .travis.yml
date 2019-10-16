@@ -1,7 +1,7 @@
 language: python
 
 python:
-  - 3.7
+  - 3.7.4
 
 install:
   - pip install -r requirements.txt
@@ -10,7 +10,7 @@ before_script:
   - python manage.py migrate
 
 script:
-  - black --check . --exclude */migrations/*
+  - black --check . --exclude venv
   - flake8 --max-line-length=100 --exclude venv
   - coverage run --source=polls manage.py test
 
