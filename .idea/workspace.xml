@@ -486,8 +486,10 @@
       <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pyflakes/test/test_type_annotations.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pyflakes/test/test_undefined_names.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/swe1_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/swe1_app/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -586,7 +588,7 @@
       <workItem from="1571116373736" duration="8103000" />
       <workItem from="1571177328260" duration="983000" />
       <workItem from="1571229646635" duration="5657000" />
-      <workItem from="1571237177899" duration="8207000" />
+      <workItem from="1571237177899" duration="8535000" />
     </task>
     <servers />
   </component>
