@@ -2,7 +2,6 @@ import datetime
 
 from django.test import TestCase
 from django.utils import timezone
-from django.urls import reverse
 from .models import Question
 
 
@@ -33,5 +32,3 @@ class QuestionModelTests(TestCase):
         time = timezone.now() - datetime.timedelta(hours=23, minutes=59, seconds=59)
         recent_question = Question(pub_date=time)
         self.assertIs(recent_question.was_published_recently(), True)
-
-
