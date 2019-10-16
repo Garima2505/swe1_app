@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a29196d1-f6b6-4ed7-9e7a-ec7f0742bb5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swe1_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/swe1_app/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +100,7 @@
       <workItem from="1571116373736" duration="8103000" />
       <workItem from="1571177328260" duration="983000" />
       <workItem from="1571229646635" duration="5657000" />
-      <workItem from="1571237177899" duration="10704000" />
+      <workItem from="1571237177899" duration="10884000" />
     </task>
     <servers />
   </component>
