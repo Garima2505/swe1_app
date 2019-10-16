@@ -10,7 +10,7 @@ before_script:
   - python manage.py migrate
 
 script:
-  - black --check --diff .
+  - black --check . --exclude */migrations/*
   - flake8 --max-line-length=88 .
   - coverage run --source=polls manage.py test
 
