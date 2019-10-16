@@ -11,7 +11,7 @@ before_script:
 
 script:
   - black --check . --exclude */migrations/*
-  - flake8 --max-line-length=88 .
+  - flake8 --max-line-length=100 --exclude venv
   - coverage run --source=polls manage.py test
 
 after_success:
